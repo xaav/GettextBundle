@@ -1,3 +1,3 @@
 # XaavGettextBundle #
 
-**Development has moved to [michelsalib/ExtraToolsBundle](https://github.com/michelsalib/BCCExtraToolsBundle)**
+**Development has moved to [michelsalib/BCCExtraToolsBundle](https://github.com/michelsalib/BCCExtraToolsBundle)**
